@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/Mario.png</file>
+        <file>images/hero.jpg</file>
+        <file>images/penemy.jpeg</file>
+        <file>images/Enemy.jpeg</file>
+        <file>images/health.jpeg</file>
+        <file>images/DefeatedEnemy.jpeg</file>
+        <file>images/maze2.png</file>
+        <file>images/COLLIS~1.BMP</file>
+        <file>images/world-map.png</file>
+        <file>images/maze1.png</file>
+        <file>images/worldmap4.png</file>
+        <file>images/dijkstraTest.png</file>
+        <file>images/maze3.png</file>
+        <file>images/strategyImage.jpg</file>
+        <file>images/animationSpeed.jpg</file>
+        <file>images/healthFinished.jpeg</file>
+        <file>images/info.jpg</file>
+        <file>images/Class Model.jpg</file>
+    </qresource>
+</RCC>
